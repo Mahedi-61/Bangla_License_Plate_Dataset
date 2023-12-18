@@ -15,9 +15,8 @@ Sample Image
 Recognizing license plates in real-time poses a significant challenge in computer vision. The complexities arise from various factors like noisy backgrounds, occlusion, multiple plates in an image, and variations in illumination and viewing angles. Prior studies on Bangla license plates often utilized images captured in ideal conditions due to the lack of datasets representing non-ideal scenarios. In this project, we introduce a small-scale Bangla License Plate Dataset featuring extensive variations in pose, illumination, and occlusion. This dataset effectively captures the complexities observed on the streets across six different cities in Bangladesh.
 
 
-In this study, we **manually capture** the  Bangla License Plate dataset. We have following variations on our dataset:
+In this study, we **manually capture** the  Bangla License Plate dataset. We have the following variations on our dataset:
 * Cities (6: Dhaka, Gazipur, Rangpur, Narayanganj, Chattogram, Mymensing) 
-* Gender information (Girl👧 or Woman👩) 
 * Pose (front, left👈, right👉, up👆 or down👇)
 * Time (day, night)
 * Season (spring, winter, summer)
