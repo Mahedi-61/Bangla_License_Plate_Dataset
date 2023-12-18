@@ -48,7 +48,7 @@ Please you have any questions please send an [email](mailto:mahedi0803@gmail.com
 Use of the provided Bangla License Plate Dataset will be deemed and treated as the user agreeing to and accepting the following Terms of Use content:
 
 * The user understands that the use of Dataset is restricted to research purposes only. Any commercial or for-profit purposes are prohibited.
-* Use of the FFHQ-Text Dataset by the user for unauthorized distribution, direct sales, or commercial business is prohibited. 
+* Use of the Bangla License Plate Dataset by the user for unauthorized distribution, direct sales, or commercial business is prohibited. 
 * The Bangla License Plate Dataset makes no warranties regarding the usefulness, accuracy, legality, morality, timeliness, and appropriateness of the information acquisition.
 
 
